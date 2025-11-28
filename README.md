@@ -37,18 +37,18 @@ Implemented:
 -Joins for reporting
 
  Key Features
-Students can submit feedback for instructors
-Students can edit/update their feedback
-All feedback stored securely in MySQL
-Organized structure using multiple relational tables
-Responsive and simple interface
+-Students can submit feedback for instructors
+-Students can edit/update their feedback
+-All feedback stored securely in MySQL
+-Organized structure using multiple relational tables
+-Responsive and simple interface
 
 What I Learned
-Full-stack development fundamentals
-Designing relational databases
-Writing SQL queries and joins
-Working with forms and user input
-Handling update/edit logic in PHP
+-Full-stack development fundamentals
+-Designing relational databases
+-Writing SQL queries and joins
+-Working with forms and user input
+-Handling update/edit logic in PHP
 
 Contact
 If you have questions or want to see more of my work:
